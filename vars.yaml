@@ -1,0 +1,8 @@
+---
+unsee:
+  version: 0.9.2
+  ram: 256
+  port: 4017
+  count: 1
+  alertmanager:
+    uri: "http://alertmanager.service:9093"
